@@ -1,0 +1,14 @@
+{
+  "cameras": [
+    {
+      "camera_id": "hd_webcam",
+      "upload_dir": "/home/edv/Desktop/pi_camera_uploads/hd_webcam",
+      "profile_path": "/home/edv/Desktop/Werkfotos_Sortiert/0-10 bar/gauge_profile.json"
+    },
+    {
+      "camera_id": "sonix_webcam",
+      "upload_dir": "/home/edv/Desktop/pi_camera_uploads/sonix_webcam",
+      "profile_path": "/home/edv/Desktop/Werkfotos_Sortiert/0-4 bar/gauge_profile.json"
+    }
+  ]
+}
